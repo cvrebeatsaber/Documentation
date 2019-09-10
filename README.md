@@ -91,4 +91,8 @@ Q: I forgot my password...
 
 A: DM Sc2ad#8836 on Discord with more information, along with proof that you are who you say you are and you can make a new account. **IF YOU MAKE AN EXTRA ACCOUNT WITHOUT INFORMING ME AHEAD OF TIME, YOU RISK LOSING YOUR SPOT AT DIVISION 1! PLEASE TELL ME BEFORE MAKING ANOTHER ACCOUNT!**
 
+Q: Will this be available on Quest?
+
+A: By this Friday (9/13/19), 5pm PST
+
 In general, please DM Sc2ad#8836 on Discord with any questions, comments, concerns, or more.
