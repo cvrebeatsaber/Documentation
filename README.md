@@ -4,7 +4,7 @@
 
 ### Initial Steps
 
-- Download [this zip file](https://cdn.discordapp.com/attachments/587454089470803989/620740577146699797/CVREBeatSaberPlugin.zip)
+- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v1.0.0/CVREBeatSaberPlugin.zip)
 There are three things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
