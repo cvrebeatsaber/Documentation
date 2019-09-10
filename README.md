@@ -37,9 +37,9 @@ You can double check this by clicking the menu icon next to Beat Saber in your O
 
 ![Beat Saber Folder](/uploads/03_beatsaber_folder.png "Beat Saber Folder")
 
-There should be a `key` file along with your `Beat Saber.exe`, `RestSharp.dll` should be included within the `Libs` folder, and `CVREBeatSaberPlugin` should be within your `Plugins` folder.
+There should be a `key` file along with your `Beat Saber.exe`, `RestSharp.dll` should be included within the `Libs` folder, and `CVREBeatSaberPlugin.dll` should be within your `Plugins` folder.
 
-If it doesn't look like this, please skip down the the (FAQ Section below)[]
+If it doesn't look like this, please skip down the the [FAQ Section below](https://github.com/cvrebeatsaber/Documentation#faq)
 
 You have now installed the mod!
 
