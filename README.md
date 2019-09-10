@@ -8,7 +8,8 @@
 There are three things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
--- Run [ModAssistant](https://github.com/Assistant/ModAssistant) (make sure you have the core mods, along with the required mods per [this list](https://tinyurl.com/cvremods))
+
+- Run [ModAssistant](https://github.com/Assistant/ModAssistant) (make sure you have the core mods, along with the required mods per [this list](https://tinyurl.com/cvremods))
 **NOTE: Make sure you have opened the game at least once before attempting to run ModAssistant, otherwise your mods may not work properly!**
 
 - Extract the zip file to your **base game directory!** This is where your `BeatSaber.exe` is located!
