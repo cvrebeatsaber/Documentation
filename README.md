@@ -4,7 +4,7 @@
 
 ### Initial Steps
 
-- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v1.6.0/CVREBeatPlugin.zip)
+- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v1.6.0/CVREPlugin.zip)
 There are three things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
