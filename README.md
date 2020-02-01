@@ -37,7 +37,7 @@ You can double check this by clicking the menu icon next to Beat Saber in your O
 
 ![Beat Saber Folder](/uploads/03_beatsaber_folder.png "Beat Saber Folder")
 
-There should be a `key` file along with your `Beat Saber.exe`, `RestSharp.dll` should be included within the `Libs` folder, and `CVREBeatSaberPlugin.dll` should be within your `Plugins` folder.
+There should be a `key` file along with your `Beat Saber.exe`, `RestSharp.dll` should be included within the `Libs` folder, and `CVREBeatSaberPlugin.dll` should be within your `Plugins` folder (along with `BS_Utils.dll` and `BSML.dll`).
 
 If it doesn't look like this, please skip down the the [FAQ Section below](https://github.com/cvrebeatsaber/Documentation#faq)
 
@@ -77,7 +77,7 @@ A: Make sure you typed in your PIN correctly. If this was an _amazing_ play, and
 
 Q: I'm certain I typed the PIN in correctly, I had just obtained a new PIN from the website, and just finished a song in `No Fail`, yet I still go the `Submitting Score...` and it eventually went away. Did my score ever upload?
 
-A: No. If this happens and you are _certain_ that you typed in a **new** PIN that you had _just_ gotten from the website, please DM Sc2ad#8836 on Discord. You will need to send your `Logs/CVREBeatSaberPlugin/_latest.txt` from your Beat Saber directory, but your score may be saved.
+A: No. If this happens and you are _certain_ that you typed in a **new** PIN that you had _just_ gotten from the website, please DM Sc2ad#8836 on Discord. You will need to send your `packet.tmp` from your Beat Saber directory, but your score may be saved.
 
 Q: I am a team captain and I want to remove someone from my team.
 
@@ -93,6 +93,6 @@ A: DM Sc2ad#8836 on Discord with more information, along with proof that you are
 
 Q: Will this be available on Quest?
 
-A: By this Friday (9/13/19), 5pm PST
+A: Who knows?
 
 In general, please DM Sc2ad#8836 on Discord with any questions, comments, concerns, or more.
