@@ -4,12 +4,12 @@
 
 ### Initial Steps
 
-- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v1.6.0/CVREPlugin.zip)
+- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v1.6.1/CVREPlugin.zip)
 There are three things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
 
-- Run [ModAssistant](https://github.com/Assistant/ModAssistant) (make sure you have the core mods, along with the required mods per [this list](https://tinyurl.com/cvremods))
+- Run [ModAssistant](https://github.com/Assistant/ModAssistant) (make sure you have the core mods)
 **NOTE: Make sure you have opened the game at least once before attempting to run ModAssistant, otherwise your mods may not work properly!**
 
 - Extract the zip file to your **base game directory!** This is where your `BeatSaber.exe` is located!
