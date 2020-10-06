@@ -93,6 +93,6 @@ A: DM Sc2ad#8836 on Discord with more information, along with proof that you are
 
 Q: Will this be available on Quest?
 
-A: Who knows?
+A: Yep! Check the [Quest documentation](https://github.com/cvrebeatsaber/Documentation/blob/master/Quest.md)
 
 In general, please DM Sc2ad#8836 on Discord with any questions, comments, concerns, or more.
