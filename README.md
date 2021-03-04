@@ -48,7 +48,7 @@ You have now installed the mod!
 - Go to [BeatKhana](https://beatkhana.com/) and register for an account. Link it to your Discord that you use on the CVRE discord server.
 - Sign up for the tournament and enter your school name
 
-[!Sign up for tournament](/uploads/15_signup_bk.png "Signup for CVRE Tournament")
+![Sign up for tournament](/uploads/15_signup_bk.png "Signup for CVRE Tournament")
 
 **Ask your captain and type it in EXACTLY as they state! IF YOU DO NOT, YOUR QUALS SCORES MAY NOT BE PROPERLY SAVED!**
 
