@@ -45,7 +45,7 @@ You have now installed the mod!
 
 ## Signup for a BeatKhana account
 
-- Go to [BeatKhana](https://beatkhana.com/) and register for an account. Link it to your Discord that you use on the CVRE discord server, **and use your twitch account or score saber. If you do not have a twitch account, make one.**
+- Go to [BeatKhana](https://beatkhana.com/) and register for an account. Link it to your Discord that you use on the CVRE discord server, **and use your twitch account or score saber. If you do not have a twitch account or scoresaber, make one or both (It's very easy to make a twitch account).**
 - [Sign up for the tournament](https://beatkhana.com/tournament/2147484223) and enter your school name
 - **Ask your captain and type it in EXACTLY as they state! IF YOU DO NOT, YOUR QUALS SCORES MAY NOT BE PROPERLY SAVED!**
 
