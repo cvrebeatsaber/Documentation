@@ -4,8 +4,8 @@
 
 ### Initial Steps
 
-- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v1.6.1/CVREPlugin.zip)
-There are three things inside this zip:
+- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v2.0.0/ManualTA_Install_v0.5.0.zip)
+There are two things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
 
@@ -37,29 +37,33 @@ You can double check this by clicking the menu icon next to Beat Saber in your O
 
 ![Beat Saber Folder](/uploads/03_beatsaber_folder.png "Beat Saber Folder")
 
-There should be a `key` file along with your `Beat Saber.exe`, `RestSharp.dll` should be included within the `Libs` folder, and `CVREBeatSaberPlugin.dll` should be within your `Plugins` folder (along with `BS_Utils.dll` and `BSML.dll`).
+There should be several libraries in your `Libs` folder: `Google.Protobuf.dll`, `System.Memory.dll`, `System.Runtime.CompilerServices.Unsafe.dll`, and `TournamentAssistant.Shared.dll`, and `TournamentAssistant.dll` should be within your `Plugins` folder (along with `BS_Utils.dll`, `BSML.dll`, and `SongDataCore.dll`).
 
-If it doesn't look like this, please skip down the the [FAQ Section below](https://github.com/cvrebeatsaber/Documentation#faq)
+If it doesn't look like this or you are missing plugins, please skip down the the [FAQ Section below](https://github.com/cvrebeatsaber/Documentation#faq)
 
 You have now installed the mod!
 
-## Signup for a cvrescores account
+## Signup for a BeatKhana account
 
-- Go to [this website](https://cvrescores.herokuapp.com/register) and sign up for an account. It should look like this:
+- Go to [BeatKhana](https://beatkhana.com/) and register for an account. Link it to your Discord that you use on the CVRE discord server.
+- That's it!
 
-![Register](/uploads/04_cvrescores_register.png "Register for an account")
+## Usage for PC
 
-**Make sure you choose your correct school!**
+Enter the game. On the left hand side, you will see a mods menu. Click the `TournamentAssistant` button and select the `quals` button, as seen below:
 
-Now, click the `Home` button, it should look like this:
+![TA Button](/uploads/10_beatsaber_quals_button.png "Beat Saber TA Button")
+![Quals from TA](/uploads/11_beatsaber_ta_quals_button.png "Beat Saber Quals Button")
 
-![Dashboard](/uploads/05_cvrescores_dashboard.png "Dashboard")
+After this, select the CVRE Qualifications event (if multiple appear, select either) and play the songs listed, which will automatically download.
 
-Open up Beat Saber, play a song with `No Fail` on, when it asks you for your PIN, click `Generate PIN` and type it in!
+![Events](/uploads/12_beatsaber_events.png "Beat Saber Events")
 
-**YOU MUST USE A NEW PIN FOR EACH SONG, OTHERWISE YOUR SCORE WILL NOT BE SUBMITTED. SEE THE FAQ SECTION BELOW!**
+The leaderboard in game may or may not appear, instead, use the [BeatKhana leaderboard](https://beatkhana.com/tournament/2147484223) for a more reliable sense of the qualifications (see CVRE Discord). Note that the official leaderboard may have further adjustments made to it after the qualification phase is complete.
 
-That's it!
+## Usage for Quest
+
+Coming soon, but you will need to download your quest ID for use with the mod, available from your BeatKhana profile page.
 
 ## FAQ
 
@@ -67,32 +71,22 @@ Q: My folder doesn't look like it should after I extracted the zip. What did I d
 
 A: You probably extracted in the incorrect directory. You can also copy over each file/folder from the .zip file into your Beat Saber directory.
 
-Q: When I finished a song in Beat Saber, I was told that I was not validated and that I was missing/had not allowed mods. What should I do?
+Q: I see two events, does it matter which one I choose?
 
-A: Make sure you _only_ downloaded the mods permitted on [this list](https://tinyurl.com/cvremods). If you have mods that are causing errors, you can navigate to your `Beat Saber\Plugins` directory, and delete the plugins that are causing you issues from there.
+A: No. Both will work.
 
-Q: When I finished a song, I typed in my PIN and it said `Submitting Score...` and that was all. It never said `Score Successfully Submitted!` What should I do?
+Q: I see a grey box for song selection without a percentage indicating its loading. Can I still play it?
 
-A: Make sure you typed in your PIN correctly. If this was an _amazing_ play, and you are upset that you lost it because of a typo in your PIN, you may still be able to recover it! DM Sc2ad#8836 on Discord personally for more details. Keep in mind that not all scores will be recoverable, so make sure that you type your PIN in properly!
+A: Yes, simply select it anyways.
 
-Q: I'm certain I typed the PIN in correctly, I had just obtained a new PIN from the website, and just finished a song in `No Fail`, yet I still go the `Submitting Score...` and it eventually went away. Did my score ever upload?
+Q: The leaderboards don't work
 
-A: No. If this happens and you are _certain_ that you typed in a **new** PIN that you had _just_ gotten from the website, please DM Sc2ad#8836 on Discord. You will need to send your `packet.tmp` from your Beat Saber directory, but your score may be saved.
+A: They may not, and aren't necessarily accurate. Check [BeatKhana for the correct leaderboard](https://beatkhana.com/tournament/2147484223).
 
-Q: I am a team captain and I want to remove someone from my team.
+Q: I see 0 events. What can I do?
 
-A: Please talk to the CVRE admins for specifics on why you want to remove this player, only then will the player be removed.
+A: Restart your Beat Saber. If it still fails to appear, check your internet connection. If no events appear, delete your `UserData/TournamentAssistant.json` file and reload the game. If STILL no events appear, both Sc2ad#8836.
 
-Q: I am a team captain and I want to change the name of my team.
-
-A: Please DM Sc2ad#8836 on Discord your name and team name.
-
-Q: I forgot my password...
-
-A: DM Sc2ad#8836 on Discord with more information, along with proof that you are who you say you are and you can make a new account. **IF YOU MAKE AN EXTRA ACCOUNT WITHOUT INFORMING ME AHEAD OF TIME, YOU RISK LOSING YOUR SPOT AT DIVISION 1! PLEASE TELL ME BEFORE MAKING ANOTHER ACCOUNT!**
-
-Q: Will this be available on Quest?
-
-A: Yep! Check the [Quest documentation](https://github.com/cvrebeatsaber/Documentation/blob/master/Quest.md)
+**NOTE: IT IS GENERALLY GOOD PRACTICE TO TAKE PICTURES OF YOUR SCORES IN THE EVENT OF AN UPLOAD FAILURE! PLEASE DO THIS IF YOU HAVE ISSUES!**
 
 In general, please DM Sc2ad#8836 on Discord with any questions, comments, concerns, or more.
