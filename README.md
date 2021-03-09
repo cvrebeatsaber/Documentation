@@ -4,7 +4,7 @@
 
 ### Initial Steps
 
-- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v2.0.2/ManualTA_Install_v0.5.2.zip)
+- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v2.0.3/ManualTA_Install_v0.5.3.zip)
 There are two things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
@@ -91,6 +91,11 @@ A: They may not, and aren't necessarily accurate. Check [BeatKhana for the corre
 Q: I see 0 events. What can I do?
 
 A: Restart your Beat Saber. If it still fails to appear, check your internet connection. If no events appear, delete your `UserData/TournamentAssistant.json` file and reload the game. If STILL no events appear, both Sc2ad#8836.
+
+Q: I STILL SEE 0 EVENTS AND MY SCORES AREN'T SUBMITTING HELP!
+
+A: Play the song(s) in question and check the `failsafe_score_submissions` folder in your Beat Saber folder for any .dat files. If you see a .dat file here, you can send it to Sc2ad#8836 on discord and give him a heads up. He will want to commit die if many many people send him stuff (as this week is pretty bad for him) so please PLEASE PLEASE FOR MY OWN SANITY do this only as a last resort.
+Also note that because I am a human, it will take me time to actually upload your scores, I will try to remind you when I have, but as I typically get overwhelmed with these, I may forget. You are also responsible for making sure I don't forget, and if you have sent me the score BEFORE quals close, it will be counted regardless of the deadline.
 
 **NOTE: IT IS GENERALLY GOOD PRACTICE TO TAKE PICTURES OF YOUR SCORES IN THE EVENT OF AN UPLOAD FAILURE! PLEASE DO THIS IF YOU HAVE ISSUES!**
 
