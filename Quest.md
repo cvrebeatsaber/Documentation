@@ -10,12 +10,12 @@
 
 ## Usage
 
-- Go to BeatKhana profile and click `Download QuestID`. [!BK QuestID](/uploads/quest_bkid.png "BK QuestID")
+- Go to BeatKhana profile and click `Download QuestID`. ![BK QuestID](/uploads/quest_bkid.png "BK QuestID")
 - It will save as a `secret.txt` file, it must be named as such.
 - Install the mod through BMBF, run the game once. The game should operate normally, if not, DM Sc2ad#8836.
-- After the install, you should see this folder on SideQuest: [!SQ ModData](/uploads/quest_moddata.png "ModData")
+- After the install, you should see this folder on SideQuest: ![SQ ModData](/uploads/quest_moddata.png "ModData")
 - Place your `secret.txt` file in that folder (drag and drop)
-- Run the game and play the qualifiers. Resulting scores will be placed in this folder on SideQuest: [!SQ packets](/uploads/quest_scores.png "Resultant Scores")
+- Run the game and play the qualifiers. Resulting scores will be placed in this folder on SideQuest: ![SQ packets](/uploads/quest_scores.png "Resultant Scores")
 - DM me the packets from this folder that reflect your best attempts. Note that the song name, score, and your user ID should be listed on the filename.
 
 ## FAQ
