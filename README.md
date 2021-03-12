@@ -4,7 +4,7 @@
 
 ### Initial Steps
 
-- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v2.0.3/ManualTA_Install_v0.5.3.zip)
+- Download [this zip file](https://github.com/cvrebeatsaber/Documentation/releases/download/v2.0.4/ManualTA_Install_v0.5.4.zip)
 There are two things inside this zip:
 
 ![Zip File](/uploads/00_zip_contents.png "Zip Contents")
